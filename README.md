@@ -1,7 +1,8 @@
 # Chat Application PART1
 
 ## Student information
-- Name: Asive 
+- Name: Asive
+- Surname: Msimango
 - Student Number: ST10506474
 - Module: PROG5121
 
