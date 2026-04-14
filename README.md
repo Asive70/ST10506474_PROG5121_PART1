@@ -1,9 +1,9 @@
 # Chat Application PART1
 
 ## Student information
--Name: Asive 
--Student Number: ST10506474
--Module: PROG5121
+- Name: Asive 
+- Student Number: ST10506474
+- Module: PROG5121
 
 ---
 
