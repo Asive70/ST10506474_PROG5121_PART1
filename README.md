@@ -20,5 +20,5 @@ Must be short (5 characters or less) and contain an underscore (_).
 ### Passwords
 Must be strong (8+ characters) and use a mix of uppercase letters, numbers, and special characters.
 ### Cellphone Validation
-Must match the standard South African format, starting with +27
+Number should start with +27, as it is the South African code
 ---
